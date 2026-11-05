@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+scipy
+statsmodels
+joblib
+xgboost
+lightgbm
+catboost
+shap
+mrmr-selection

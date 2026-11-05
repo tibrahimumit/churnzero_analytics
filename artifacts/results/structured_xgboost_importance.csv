@@ -1,0 +1,21 @@
+Feature,Importance
+categorical__City_Glasgow,0.0060119843
+categorical__City_New York,0.0062880833
+numeric__Social_Media_Engagement_Score,0.006497874
+categorical__City_Toronto,0.0067936853
+numeric__Login_Frequency,0.013099193
+numeric__Returns_Rate,0.014167242
+numeric__Product_Reviews_Written,0.014420094
+numeric__Mobile_App_Usage,0.014662758
+numeric__Wishlist_Items,0.01960981
+numeric__Pages_Per_Session,0.021372441
+numeric__Email_Open_Rate,0.025670405
+numeric__Average_Order_Value,0.02871167
+numeric__Days_Since_Last_Purchase,0.031117095
+numeric__Session_Duration_Avg,0.037122946
+numeric__Total_Purchases,0.064295925
+numeric__Cart_Abandonment_Rate,0.07336348
+numeric__Age,0.07410511
+numeric__Discount_Usage_Rate,0.10162725
+numeric__Lifetime_Value,0.11628282
+numeric__Customer_Service_Calls,0.15476862
